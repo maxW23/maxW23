@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maxim Kurdy .
-- 👀 I’m interested in React.JS front-end web development .
+- 👀 I’m interested web development .
 - 🌱 I’m currently a freelancer .
 - 📫 How to reach me : wmaxim45@gmail.com.
 
